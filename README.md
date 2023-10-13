@@ -1,2 +1,1 @@
-See the webpage below:
-https://aaronwilhelm1.github.io/crossword/
+See the webpage here: https://aaronwilhelm1.github.io/crossword/
